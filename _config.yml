@@ -1,4 +1,4 @@
 exclude: [
-  MechaDragonX.github.io.code-workspace
+  MechaDragonX-prod.code-workspace
 ]
 future: true
